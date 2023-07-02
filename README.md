@@ -41,14 +41,14 @@ With that, we’ve come to the end of this analysis. The following are conclusio
 * Potentail segment has least number of customers and most are from UK
 
 ## References and Future Work
-###Future Work
+
+### Future Work
 There are lot of scopes of improvement and/or addition in this project in future, with the data provided and adding extra datasets we can do:
 * The in-depth targeted marketing may also use type of item purchased or customer campaign responses as factors.
 * Customer demographics such as age, gender and ethinicity are not covered in RFM analysis
 * RFM only uses historical data about customers and may not predict future customer activity.
 
 ### Refereces
-
 * Netflix Titles Dataset: <https://www.kaggle.com/datasets/vivek468/superstore-dataset-final>
 * Kaggle Datasets (Choose Dataset of your choice): <https://www.kaggle.com/datasets>
 * RFM Technique: <https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp>
