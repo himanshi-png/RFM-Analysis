@@ -25,6 +25,7 @@ To solve the questions I have used a Customer Segmentation technique to find mos
 * Recency - Number of days since last purchase made by customer.
 * Frequency - Number of orders has the customer purchased in total.
 * Monetary - The amount customer has spent in total for purchase of items.
+
 RFM groups customers into different customer segments for easy recall and campaign targeting. It’s super useful in understanding responsiveness of your customers and for segmentation driven database marketing. It helps to decide the follwoing questions:
 * Who are the loyal/slipping customers?
 * Who has potential to be converted to loyal customers?
